@@ -1,6 +1,8 @@
 # gomic
 
-Software para identificar e melhorar qualquer microfone. O escopo ainda está sendo definido via `/grill-with-docs`; as decisões ficam em `CONTEXT.md` e `docs/adr/`.
+Mesa de som para voz no Windows: melhora o áudio de qualquer microfone com uma cadeia de módulos, calibração automática e ajustes manuais, e entrega o resultado a outros apps pelo VB-CABLE. Não identifica marca nem modelo do microfone. A spec está na issue #1; o vocabulário fica em `GLOSSARY.md` e as decisões em `docs/adr/`.
+
+Código (tipos, funções, testes) em inglês, usando o nome em inglês que o `GLOSSARY.md` dá para cada termo. Documentação, issues e conversa em português do Brasil.
 
 ## Processo
 
@@ -20,4 +22,4 @@ Labels padrão: `needs-triage`, `needs-info`, `ready-for-agent`, `ready-for-huma
 
 ### Domain docs
 
-Single-context: um `CONTEXT.md` e `docs/adr/` na raiz. See `docs/agents/domain.md`.
+Single-context: um `GLOSSARY.md` e `docs/adr/` na raiz. See `docs/agents/domain.md`.
