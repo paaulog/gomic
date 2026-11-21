@@ -1,4 +1,4 @@
-# mic-tuner
+# gomic
 
 Software para identificar e melhorar qualquer microfone. O escopo ainda está sendo definido via `/grill-with-docs`; as decisões ficam em `CONTEXT.md` e `docs/adr/`.
 

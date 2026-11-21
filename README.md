@@ -1,4 +1,4 @@
-# mic-tuner
+# gomic
 
 Software para identificar e melhorar qualquer microfone.
 
